@@ -2,3 +2,7 @@
     "rootDir": "dist",
     "scriptId": "...paste scriptId here..."
 }
+
+// .clasp.json
+{"rootDir": "dist",
+ "scriptId":"...paste scriptId here..."}
